@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+/home/aquilas/Projet Developpement web et Application/Eclipse_projet/.metadata/.plugins/org.eclipse.jdt.core
-4104032650.index
-1865797976.index
